@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I don't know what I want to be yet.<br/>
-However, it is confident that I will be something awesome.<br/>
-Please observe what I do.<br/>
-Thank you, Good luck! (～￣▽￣)～<br/>
+
 <br/>
 Maybe I'm interested in..<br/>
+✔ ML<br/>
+✔ deeplearning<br/>
 ✔ hacking<br/>
-✔ server<br/>
-✔ database<br/>
