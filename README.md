@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br/>
-Maybe I'm interested in..<br/>
-✔ ML<br/>
-✔ deeplearning<br/>
-✔ hacking<br/>
